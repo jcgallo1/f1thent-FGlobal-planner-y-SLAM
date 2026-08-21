@@ -50,7 +50,7 @@ LiDAR del vehículo. Durante la adquisición se registraron las poses, se fusion
 el mapa en 2D y se corrigieron inconsistencias de entorno para exportar la
 versión final en formato PGM/YAML lista para la planificación global.
 
-[Ver video del proceso de mapeado](assets/mapeado_slam.webm)
+https://youtu.be/ci9kzYN7z2Y
 
 ### Path superpuesto en RViz
 
