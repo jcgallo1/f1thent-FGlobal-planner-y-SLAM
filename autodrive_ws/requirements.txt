@@ -1,0 +1,6 @@
+# Dependencias del bridge AutoDRIVE probadas con Python 3.10 / ROS 2 Humble.
+gevent==26.5.0
+gevent-websocket==0.10.1
+python-socketio==4.2.0
+python-engineio==3.13.0
+Pillow==12.3.0

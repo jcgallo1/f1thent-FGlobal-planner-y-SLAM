@@ -1,0 +1,16 @@
+**/build/
+**/install/
+**/log/
+**/venv/
+.venv*/
+**/__pycache__/
+*.pyc
+.ros/
+
+# Capturas originales con nombres dependientes del escritorio. Las copias con
+# nombres portables se conservan en assets/ y sí se versionan.
+assets/Captura desde*
+assets/Grabación de pantalla desde*
+
+# Resultados históricos; se conserva resultados_planificacion/ como evidencia.
+Global_Planner/f1tenth/resultados_planificacion-anterior/
